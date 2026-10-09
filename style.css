@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+h4{
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#btn1 , #btn-res{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+#main_result{
+    border: white 2px solid;
+}
+#btn-res {
+    display: none;
+    margin-top: 20px;
+}
+img{
+    margin-left: 10px;
+}
