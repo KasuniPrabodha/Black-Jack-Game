@@ -1,2 +1,13 @@
-# Black-Jack-Game
-A responsive and interactive Blackjack card game developed from scratch using HTML5, CSS3, and JavaScript. Features game logic, score tracking, and clean UI design.
+# 🃏 Blackjack Game
+
+A classic Blackjack card game built using web technologies. Play right in your browser!
+
+## 🚀 Built With
+* **HTML5** - Structure of the game
+* **CSS3** - Styling, layout, and responsive design
+* **JavaScript (ES6+)** - Game logic and interactivity
+
+## 🕹️ How to Play
+1. Hit **Hit** to draw another card.
+2. Hit **Stand** to end your turn and let the dealer play.
+3. Try to get as close to 21 as possible without going over!
