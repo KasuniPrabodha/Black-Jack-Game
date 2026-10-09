@@ -14,3 +14,6 @@ A classic Blackjack card game built using web technologies. Play right in your b
 
 ## 🔗 Live Demo
 Check out the live game here: [Play Blackjack Game](https://kasuniprabodha.github.io/Black-Jack-Game/)
+
+## 📸 Game Preview
+![Blackjack Game Screenshot](blackjack.png)
