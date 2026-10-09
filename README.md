@@ -10,4 +10,4 @@ A classic Blackjack card game built using web technologies. Play right in your b
 ## 🕹️ How to Play
 1. Hit **Hit** to draw another card.
 2. Hit **Stand** to end your turn and let the dealer play.
-3. Try to get as close to 21 as possible without going over!
+3. Try to get as close to 21 as possible without going over! 
